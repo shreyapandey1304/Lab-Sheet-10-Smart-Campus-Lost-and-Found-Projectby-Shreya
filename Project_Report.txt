@@ -1,0 +1,57 @@
+
+SMART CAMPUS LOST AND FOUND MANAGEMENT SYSTEM
+
+1. OBJECTIVE
+The objective of this project is to develop a C++ based system that helps students report lost and found items within the college campus. It makes searching and managing lost items easier.
+
+2. INTRODUCTION
+The Smart Campus Lost and Found Management System is designed to maintain records of lost and found belongings such as ID cards, wallets, keys, books and other items. Students can report items, search records and check possible matches.
+
+3. MODULES
+1. Student Login
+2. Report Lost Item
+3. Report Found Item
+4. Search Item
+5. Auto Match Lost and Found
+6. View All Records
+7. Delete Record
+8. Item Statistics
+9. Export Report
+10. Exit
+
+4. ALGORITHM / LOGIC
+1. Start the program.
+2. Load previously saved item records.
+3. Display the main menu.
+4. Accept the user's choice.
+5. Perform the selected operation.
+6. Save updated records in a file.
+7. Repeat until the user selects Exit.
+8. Stop the program.
+
+5. CONCEPTS USED
+- C++ Programming
+- Structures
+- Arrays
+- Functions
+- Loops
+- Conditional Statements
+- Strings
+- Searching
+- File Handling
+
+6. SAMPLE INPUT / OUTPUT
+
+Input:
+Enter your choice: 2
+Enter item name: ID Card
+Enter category: Documents
+Enter location: Library
+Enter description: Blue ID card
+
+Output:
+Item reported successfully!
+Your Item ID is: 1
+
+7. CONCLUSION
+This project provides a simple way to manage lost and found items in a college campus. It helps students report, search and manage item records efficiently using C++ programming concepts.
